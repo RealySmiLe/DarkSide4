@@ -1,3 +1,3 @@
-token=
-owner=362581648644243486
-prefix=
+token=NDkyNzQzNzg2ODgwMDQwOTcx.Do91Ag.EHvyfDcxkaDEa5Btb6f8g6NV2dM
+owner=289820404040728578
+prefix=3
